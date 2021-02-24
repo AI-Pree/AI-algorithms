@@ -1,2 +1,2 @@
 # AI-algorithms
-AI-algorithm for machine learning in notebooks
+Implementations of AI-algorithm for machine learning in notebooks
