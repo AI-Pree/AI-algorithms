@@ -1,2 +1,2 @@
 # AI-algorithms
-Implementations of algorithm for machine learning projects in notebooks
+Implementations of algorithms for machine learning and other problems in notebooks.
